@@ -77,7 +77,31 @@ Tenho perfil analítico, organizado e orientado a resultados, buscando eficiênc
 
 ---
 
-## 📂 Projetos em Destaque  
+## 📂 Projetos em Destaque 
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🧮 Calculadora Virtual
+- **Descrição:** Desenvolvida para realizar operações matemáticas básicas com uma interface intuitiva.
+- **Tecnologias:** Python, Tkinter.
+- **Link:** [Ver projeto](link-do-seu-repositorio)
+
+### 🎲 Sorteador Digital
+- **Descrição:** Ferramenta para sorteios aleatórios, útil para jogos ou decisões rápidas.
+- **Tecnologias:** Python, Flask.
+- **Link:** [Ver projeto](link-do-seu-repositorio)
+
+### 📺 Retail Digital Signage
+- **Descrição:** Sistema de sinalização digital focado em varejo para exibição de conteúdos dinâmicos.
+- **Tecnologias:** Python, Django / Frameworks de exibição.
+- **Link:** [Ver projeto](link-do-seu-repositorio)
+
+### 📝 Sistema de Cadastro (Backend)
+- **Descrição:** API robusta para registro de usuários com integração de banco de dados.
+- **Tecnologias:** Node.js, PostgreSQL, Thunder Client.
+- **Link:** [Ver projeto](link-do-seu-repositorio)
 
 🔹 **Sistema Web com Flask**  
 Aplicação com autenticação, controle de sessão e integração com banco de dados.
