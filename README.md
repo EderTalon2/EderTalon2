@@ -25,7 +25,8 @@ Tenho perfil analítico, organizado e orientado a resultados, buscando eficiênc
 🎯 Busco oportunidades como:
 
 - Analista de Projetos em TI  
-- Analista de TI  
+- Analista de Sporte de TI
+- Analista de Infraestrutura de TI
 - Analista de Processos  
 - Analista de Governança de TI  
 
@@ -54,7 +55,7 @@ Tenho perfil analítico, organizado e orientado a resultados, buscando eficiênc
 ---
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Python (Flask), SQL, Node.js
+- **Linguagens:** Python (Flask), SQL, PostgreSQL, Node.js
 - **Frameworks & Libs:** Flask, Django
 - **Gestão & Processos:** ITIL®, Scrum, COBIT®
 - **Bancos de Dados:** PostgreSQL, MySQL
@@ -65,12 +66,14 @@ Tenho perfil analítico, organizado e orientado a resultados, buscando eficiênc
 - 🎓 **Graduado em Gestão de TI**
 - 🐍 **Curso de Python (Em conclusão):** Focado em desenvolvimento backend e lógica de programação.
 -  🌐 **SAP / ABAP (Em aprendizado):** Focado em entender a lógica de desenvolvimento e processos dentro do ambiente SAP.
--
+-  🤝 **Recrutamento e Seleção (SEBRAE):** Mini curso de 7 horas focado em gestão de pessoas e processos seletivos.
 
 ## 🌐 Idiomas
 - **Português:** Nativo
 - **Inglês:** Intermediário (Compreensão de documentação técnica e conversação básica)
--
+- **Espanhol:** Fluente
+
+---
 
 ## 📂 Projetos em Destaque  
 
