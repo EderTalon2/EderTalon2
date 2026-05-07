@@ -68,6 +68,8 @@ Tenho perfil analítico, organizado e orientado a resultados, buscando eficiênc
 -  🌐 **SAP / ABAP (Em aprendizado):** Focado em entender a lógica de desenvolvimento e processos dentro do ambiente SAP.
 -  🤝 **Recrutamento e Seleção (SEBRAE):** Mini curso de 7 horas focado em gestão de pessoas e processos seletivos.
 
+---
+
 ## 🌐 Idiomas
 - **Português:** Nativo
 - **Inglês:** Intermediário (Compreensão de documentação técnica e conversação básica)
