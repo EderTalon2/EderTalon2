@@ -7,7 +7,11 @@
 
 ## 👋 Sobre mim  
 
-Sou **graduado em Gestão da Tecnologia da Informação**, com foco em governança, gestão de serviços e projetos de TI alinhados à estratégia organizacional.
+---
+
+Sou graduado em Gestão da Tecnologia da Informação, com foco em alinhamento estratégico, governança e operação de serviços. Atualmente, busco atuar como Analista de Infraestrutura ou Suporte TI, utilizando minha base sólida em frameworks de boas práticas (ITIL, Scrum) para garantir a eficiência dos ativos tecnológicos e a continuidade dos processos de negócio.
+Possuo experiência prática no desenvolvimento de automações com Python e gestão de dados com SQL, o que me permite ir além do suporte convencional, buscando otimizar tarefas rotineiras e garantir a integridade da infraestrutura.
+Meu objetivo: Aplicar meus conhecimentos técnicos e certificações internacionais para resolver problemas de TI com agilidade, foco no usuário e visão de processos.
 
 Possuo certificações nas principais estruturas internacionais de boas práticas em Tecnologia da Informação:
 
