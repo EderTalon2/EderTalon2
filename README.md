@@ -52,6 +52,19 @@ Tenho perfil analítico, organizado e orientado a resultados, buscando eficiênc
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderTalon2&layout=compact&theme=radical)
 
 ---
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python (Flask), SQL, Node.js
+- **Frameworks & Libs:** Flask, Django
+- **Gestão & Processos:** ITIL®, Scrum, COBIT®
+- **Bancos de Dados:** PostgreSQL, MySQL
+
+---
+
+## 📚 Formação e Certificações
+- 🎓 **Graduado em Gestão de TI**
+- 🐍 **Curso de Python (Em conclusão):** Focado em desenvolvimento backend e lógica de programação.
+-
 
 ## 📂 Projetos em Destaque  
 
