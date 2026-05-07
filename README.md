@@ -64,6 +64,12 @@ Tenho perfil analítico, organizado e orientado a resultados, buscando eficiênc
 ## 📚 Formação e Certificações
 - 🎓 **Graduado em Gestão de TI**
 - 🐍 **Curso de Python (Em conclusão):** Focado em desenvolvimento backend e lógica de programação.
+-  🌐 **SAP / ABAP (Em aprendizado):** Focado em entender a lógica de desenvolvimento e processos dentro do ambiente SAP.
+-
+
+## 🌐 Idiomas
+- **Português:** Nativo
+- **Inglês:** Intermediário (Compreensão de documentação técnica e conversação básica)
 -
 
 ## 📂 Projetos em Destaque  
